@@ -1,0 +1,2 @@
+# testgoreleaser
+just test testgoreleaser
